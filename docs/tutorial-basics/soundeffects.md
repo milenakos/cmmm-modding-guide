@@ -7,11 +7,9 @@ description: Programmer... effects?
 # Adding your own sound effect to the game folders
 
 Before you do anything in the Unity editor, you'll first need to add the sound effect into the game. So, in File Explorer, open the `Assets` folder.
-Then, double click the `Assets` folder (yes, i know, weird) and open the `Music` folder. Here, you will put all your sound effects.
+Then, double click the `Assets` folder (yes, I know, weird) and open the `Music` folder. Here, you will put all your sound effects.
 
 ### Adding the sound effect into the game
-
-Open your project in Unity. If you don't have a project, please visit [Introduction](../intro).
 
 First, open your project in Unity. If you don't have a project, please visit [Introduction](../intro).
 
